@@ -1,0 +1,3 @@
+# Module gdg_betabeers
+# RPC service class, partial path of RPC policy file
+com.gb.client.GreetingService, 7E4DBBC3306D19D87786E65DA308B4B9.gwt.rpc
